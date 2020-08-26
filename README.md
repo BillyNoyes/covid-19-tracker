@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Live Build](https://covid-19-74c77.web.app/)
 
 ## Available Scripts
 
