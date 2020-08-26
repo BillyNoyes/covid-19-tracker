@@ -37,8 +37,8 @@ function App() {
             value: country.countryInfo.iso2,
           }));
 
-          const sortedData = sortData(data);
-          setTableData(data);
+          let sortedData = sortData(data);
+          setTableData(sortedData);
           setCountries(countries);
         });
     };
