@@ -1,14 +1,8 @@
-.table::-webkit-scrollbar {
-  display: none;
-}
-
 .table {
   margin-top: 20px;
   overflow: scroll;
-  overflow-x: hidden;
   height: 400px;
   color: #6a5d5d;
-  background-color: white;
 }
 
 .table tr {
